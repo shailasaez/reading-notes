@@ -6,4 +6,4 @@ Growth Mindset to me means:
 - Reminder 2
 - Reminder 3
 
-Link to my GitHub portfolio: 
+[Link to my GitHub portfolio] (https://shailasaez.github.io/reading-notes/)
