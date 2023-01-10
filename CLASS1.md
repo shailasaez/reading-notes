@@ -1,8 +1,9 @@
 #Reflection & Discussion
 
+
 ##Intro
 
-This page is important because it'll serve as sort of a journal for me to reference when I'm stuck as well as help keep me organized and focused as I continue to learn new skills in coding. 
+Today was day one into my coding journey and I can admit it was very overwhelming but at the same time very exciting! Learning this new skill is a challenge I am eager to face. Installing Homebrew via Ubuntu definitely gave me a run for my money as well as trying to memorize this entirely new coding language so I'm hoping to utilize this page to help me progress in my classes and help me reach my goals.
 
-##Things I Want To Learn More About
+##Things I Want To Learn More  
 
