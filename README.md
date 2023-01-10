@@ -1,6 +1,6 @@
 # reading-notes
 
-Hello! My name is Shaila Moore and this is my reading journal for Code Fellows. 
+Hello! My name is Shaila Moore. I'm an Army Veteran making a huge career change and I have never been more excited to learn a new skill! This is my reading journal for Code Fellows. 
 
 Follow me on this amazing journey through a [Link to my GitHub portfolio](https://shailasaez.github.io/reading-notes/)
 
